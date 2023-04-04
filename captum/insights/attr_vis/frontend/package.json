@@ -14,7 +14,7 @@
     "@types/react-tag-autocomplete": "^5.12.0",
     "babel-loader": "^8.0.6",
     "chart.js": "^2.9.4",
-    "css-loader": "3.3.0",
+    "css-loader": "3.6.0",
     "js-levenshtein": "^1.1.6",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.11.1",
